@@ -58,7 +58,7 @@ main {
 
 main div {
     background-color: #aab89d; /* Greenish background for divs */
-    border-style: 5px solid #aab89d; /*Adds a solid border*/
+    border-style: solid; /*Adds a solid border*/
     padding: 50px; /* Adds internal space */
 }
 
